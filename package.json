@@ -27,7 +27,8 @@
     "body-parser": "^1.18.3",
     "ejs": "^2.6.1",
     "express": "^4.16.4",
-    "mongodb": "^3.2.1"
+    "mongodb": "^3.2.1",
+    "mongoose": "^5.4.20"
   },
   "devDependencies": {
     "nodemon": "^1.18.10"
